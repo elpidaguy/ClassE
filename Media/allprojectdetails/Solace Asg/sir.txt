@@ -1,0 +1,17 @@
+
+Gokul Shinde
+(4:38:31 PM) A) Front End
+Android Native
+1. Android Native code
+2. Device Manager plugin to handle camera
+3. Device Manager plugin to handle Device Id for Push Notification
+4. Device Manager plugin to handle WiFi or Internect Connection
+5. Navigation menu like Amazon app
+6. Google or Fusion Charts
+B) Third Party API
+Codigniter REST API to communicate with device application and database.
+C) Back End
+PHP, Codeigniter Framework, Bootstrap, JavaScript, jQuery
+1. Datatable plugin of jQuery to manage listing of different records
+2. TinyMce Editor to add questions and answer options
+3. Google Charts to show statistics

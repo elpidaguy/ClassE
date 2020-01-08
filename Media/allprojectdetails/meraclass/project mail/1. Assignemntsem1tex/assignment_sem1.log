@@ -1,0 +1,739 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2016.3.16)  27 SEP 2016 08:56
+entering extended mode
+**assignment_sem1.tex
+
+("D:\Academic\demo\allprojectdetails\meraclass\project mail\1. Assignemntsem1te
+x\assignment_sem1.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\epsfig.sty"
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+\epsfxsize=\dimen105
+\epsfysize=\dimen106
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def"
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+("D:\Academic\demo\allprojectdetails\meraclass\project mail\1. Assignemntsem1te
+x\assignment_sem1.aux"
+
+LaTeX Warning: Label `atcres' multiply defined.
+
+
+LaTeX Warning: Label `atcres' multiply defined.
+
+
+LaTeX Warning: Label `atcres' multiply defined.
+
+
+LaTeX Warning: Label `atcres' multiply defined.
+
+
+LaTeX Warning: Label `atcres' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count89
+\scratchdimen=\dimen107
+\scratchbox=\box26
+\nofMPsegments=\count90
+\nofMParguments=\count91
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count92
+\MPscratchDim=\dimen108
+\MPnumerator=\count93
+\makeMPintoPDFobject=\count94
+\everyMPtoPDFconversion=\toks16
+)
+("D:\Academic\demo\allprojectdetails\meraclass\project mail\1. Assignemntsem1te
+x\assreport.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
+
+ []
+
+<idea.png, id=1, 428.35031pt x 365.86688pt>
+File: idea.png Graphic file (type png)
+ <use idea.png>
+Package pdftex.def Info: idea.png used on input line 15.
+(pdftex.def)             Requested size: 299.84317pt x 256.10506pt.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 \end{enumerate}
+                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 \item\textbf
+                 {Software and Hardware SpeciÔ¨Åcation:}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 19
+[][]
+ []
+
+Missing character: There is no Ô in font cmbx12!
+Missing character: There is no ¨ in font cmbx12!
+Missing character: There is no Å in font cmbx12!
+Missing character: There is no Ô in font cmbx12!
+Missing character: There is no ¨ in font cmbx12!
+Missing character: There is no Å in font cmbx12!
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/Academic/demo/allproje
+ctdetails/meraclass/project mail/1. Assignemntsem1tex/idea.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 65--67
+
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{enumerate}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{enumerate}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.69 \end{enumerate}
+                    
+Things are pretty mixed up, but I think the worst is over.
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 71--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--73
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77 \begin
+           {enumerate}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--92
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 113--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--119
+
+ []
+
+! Extra }, or forgotten \endgroup.
+l.120 ...gh understanding of the system modelled.}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten \endgroup.
+l.121 ... better design or control of the system.}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten \endgroup.
+l.122 ...nt use of modern computing capabilities.}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.125 \item
+           \textbf{Objective}\\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 133--141
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.143 \\
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.144 \pagebreak
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 145--147
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--147
+
+ []
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \hskip 
+l.154 \hspace*{0.5}
+                   Location-based services (LBS) are a general class of comp...
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--157
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.159 \item
+           \textbf{Implementation Plan }\\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<implementationPlan.png, id=25, 475.02469pt x 441.90094pt>
+File: implementationPlan.png Graphic file (type png)
+
+<use implementationPlan.png>
+Package pdftex.def Info: implementationPlan.png used on input line 163.
+(pdftex.def)             Requested size: 368.14032pt x 342.46968pt.
+ [7] [8 <D:/Academic/demo/allprojectdetails/meraclass/project mail/1. Assignemn
+tsem1tex/implementationPlan.png>]
+<teamStructure.png, id=33, 513.41812pt x 318.43968pt>
+File: teamStructure.png Graphic file (type png)
+ <use teamStructure.png>
+Package pdftex.def Info: teamStructure.png used on input line 170.
+(pdftex.def)             Requested size: 423.56734pt x 262.71112pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--178
+
+ []
+
+[9 <D:/Academic/demo/allprojectdetails/meraclass/project mail/1. Assignemntsem1
+tex/teamStructure.png>] <DFD-0.png, id=37, 759.58781pt x 359.09157pt>
+File: DFD-0.png Graphic file (type png)
+
+<use DFD-0.png>
+Package pdftex.def Info: DFD-0.png used on input line 192.
+(pdftex.def)             Requested size: 241.84448pt x 149.66129pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--198
+
+ []
+
+[10 <D:/Academic/demo/allprojectdetails/meraclass/project mail/1. Assignemntsem
+1tex/DFD-0.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+
+ []
+
+<DFD-1.png, id=42, 806.26219pt x 374.14781pt>
+File: DFD-1.png Graphic file (type png)
+ <use DFD-1.png>
+Package pdftex.def Info: DFD-1.png used on input line 203.
+(pdftex.def)             Requested size: 241.84361pt x 149.66217pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.208 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--211
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.213 \begin
+            {figure*}[h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<Class_diagram.png, id=43, 410.2828pt x 270.25969pt>
+File: Class_diagram.png Graphic file (type png)
+ <use Class_diagram.png>
+Package pdftex.def Info: Class_diagram.png used on input line 214.
+(pdftex.def)             Requested size: 241.84564pt x 149.66599pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.219 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<Uml.png, id=44, 627.09282pt x 354.57469pt>
+File: Uml.png Graphic file (type png)
+ <use Uml.png>
+Package pdftex.def Info: Uml.png used on input line 221.
+(pdftex.def)             Requested size: 256.08588pt x 204.86354pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.226 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<Activity.png, id=45, 419.31656pt x 359.09157pt>
+File: Activity.png Graphic file (type png)
+ <use Activity.png>
+Package pdftex.def Info: Activity.png used on input line 228.
+(pdftex.def)             Requested size: 284.52364pt x 298.77466pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.236 \\
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.237 \vspace
+             *{5in}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[11 <D:/Academic/demo/allprojectdetails/meraclass/project mail/1. Assignemntsem
+1tex/DFD-1.png>]
+Overfull \vbox (164.24622pt too high) has occurred while \output is active []
+
+
+[12 <D:/Academic/demo/allprojectdetails/meraclass/project mail/1. Assignemntsem
+1tex/Class_diagram.png> <D:/Academic/demo/allprojectdetails/meraclass/project m
+ail/1. Assignemntsem1tex/Uml.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.240 \vspace
+             *{6in}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.242 \hspace
+             *{2.125 in}\textbf{\large Assignment 5}\\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--244
+
+ []
+
+
+Overfull \vbox (164.42804pt too high) has occurred while \output is active []
+
+
+[13 <D:/Academic/demo/allprojectdetails/meraclass/project mail/1. Assignemntsem
+1tex/Activity.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.253 \textbf
+             {Introduction:} Software testing is the process of executing a ...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--260
+
+ []
+
+<testing.png, id=59, 533.74406pt x 295.85532pt>
+File: testing.png Graphic file (type png)
+ <use testing.png>
+Package pdftex.def Info: testing.png used on input line 265.
+(pdftex.def)             Requested size: 400.30705pt x 221.89093pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--269
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--275
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 275--282
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--282
+
+ []
+
+[15 <D:/Academic/demo/allprojectdetails/meraclass/project mail/1. Assignemntsem
+1tex/testing.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+
+ []
+
+<testCases.png, id=66, 514.92375pt x 447.92343pt>
+File: testCases.png Graphic file (type png)
+ <use testCases.png>
+Package pdftex.def Info: testCases.png used on input line 286.
+(pdftex.def)             Requested size: 398.34679pt x 369.89679pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.290 \end
+          {enumerate}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+
+! LaTeX Error: \begin{enumerate} on input line 150 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 \end{document}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[16] [17 <D:/Academic/demo/allprojectdetails/meraclass/project mail/1. Assignem
+ntsem1tex/testCases.png>]
+("D:\Academic\demo\allprojectdetails\meraclass\project mail\1. Assignemntsem1te
+x\assignment_sem1.aux")
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 150 (\begingroup)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 1578 strings out of 494045
+ 21985 string characters out of 3145969
+ 78608 words of memory out of 3000000
+ 4893 multiletter control sequences out of 15000+200000
+ 4552 words of font info for 17 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 30i,12n,43p,1022b,426s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr12.pfb>
+Output written on assignment_sem1.pdf (17 pages, 250151 bytes).
+PDF statistics:
+ 81 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+

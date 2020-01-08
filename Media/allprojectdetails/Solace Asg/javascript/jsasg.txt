@@ -1,0 +1,6 @@
+ 1. Add a from of Invitation to accept emails from the user. Show a single field to accept email address and more option in front of it.
+2. Add one more field everytime when click on more option.
+3. Once user left email address field, send ajax request to check if provided email is present in databaes.
+4. Show message according to result found below the field.
+5. If email is duplicate, make field value clear.
+6. Collect all emails after submitting form. Use mail function of php to send email to all recipients.

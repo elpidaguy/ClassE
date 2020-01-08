@@ -1,0 +1,7 @@
+1. Add a form for user signup. Form will have fields like Name, Username, Email, Password, About Me, Address, State, Country etc.
+2. Validate this form for all possible values and store details in database.
+3. Show login form after submitting above form. Validate this form as well.
+4. Make user logged in and and maintain the session.
+5. Show user profile page after successful login and list all user's details.
+6. Provide option to edit these details. Show form to edit user details and validate this form as well.
+7. If complete all above points, do provide option to add profile picture of user on Edit form

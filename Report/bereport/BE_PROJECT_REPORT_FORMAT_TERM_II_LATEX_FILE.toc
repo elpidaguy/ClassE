@@ -1,0 +1,99 @@
+\contentsline {chapter}{\numberline {1}SYNOPSIS}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}PROJECT TITLE}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}PROJECT OPTION}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3}INTERNAL GUIDE}{2}{section.1.3}
+\contentsline {section}{\numberline {1.4}SPONSORSHIP AND EXTERNAL GUIDE}{2}{section.1.4}
+\contentsline {section}{\numberline {1.5} TECHNICAL KEYWORDS}{2}{section.1.5}
+\contentsline {section}{\numberline {1.6}PROBLEM STATEMENT}{2}{section.1.6}
+\contentsline {section}{\numberline {1.7}ABSTRACT}{2}{section.1.7}
+\contentsline {section}{\numberline {1.8}GOALS AND OBJECTIVES}{3}{section.1.8}
+\contentsline {section}{\numberline {1.9}RELEVANT MATHEMATICS ASSOCIATED WITH THE PROJECT}{3}{section.1.9}
+\contentsline {section}{\numberline {1.10}NAMES OF CONFERENCES WHERE PAPER CAN PUBLISH}{5}{section.1.10}
+\contentsline {section}{\numberline {1.11}REVIEW OF CONFERENCE/JOURNAL PAPERS SUPPORTING DISSERTATION IDEA}{5}{section.1.11}
+\contentsline {section}{\numberline {1.12}PLAN OF PROJECT EXECUTION}{6}{section.1.12}
+\contentsline {chapter}{\numberline {2}TECHNICAL KEYWORDS}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}AREA OF PROJECT}{8}{section.2.1}
+\contentsline {section}{\numberline {2.2}TECHNICAL KEYWORDS}{8}{section.2.2}
+\contentsline {chapter}{\numberline {3}INTRODUCTION}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}PROJECT IDEA}{10}{section.3.1}
+\contentsline {section}{\numberline {3.2}MOTIVATION}{10}{section.3.2}
+\contentsline {section}{\numberline {3.3}LITERATURE SURVEY}{10}{section.3.3}
+\contentsline {chapter}{\numberline {4}PROBLEM DEFINITION AND SCOPE}{12}{chapter.4}
+\contentsline {section}{\numberline {4.1}PROBLEM STATEMENT}{13}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}GOALS AND OBJECTIVES}{13}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}STATEMENT OF SCOPE}{13}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}MAJOR CONSTRAINTS}{13}{section.4.2}
+\contentsline {section}{\numberline {4.3}METHODOLOGIES OF PROBLEM SOLVING AND EFFICIENCY ISSUES}{13}{section.4.3}
+\contentsline {section}{\numberline {4.4}OUTCOMES}{14}{section.4.4}
+\contentsline {section}{\numberline {4.5}Applications}{14}{section.4.5}
+\contentsline {section}{\numberline {4.6}HARDWARE RESOURCES REQUIRED}{14}{section.4.6}
+\contentsline {section}{\numberline {4.7}SOFTWARE RESOURCES REQUIRED}{14}{section.4.7}
+\contentsline {chapter}{\numberline {5}PROJECT PLAN}{16}{chapter.5}
+\contentsline {section}{\numberline {5.1}PROJECT ESTIMATES}{17}{section.5.1}
+\contentsline {section}{\numberline {5.2}RISK MANAGEMENT}{17}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}RISK IDENTIFICATION}{17}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}RISK ANALYSIS}{17}{subsection.5.2.2}
+\contentsline {section}{\numberline {5.3}PROJECT SCHEDULE}{19}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}PROJECT TASK SET}{19}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}TASK NETWORK}{20}{subsection.5.3.2}
+\contentsline {section}{\numberline {5.4}TEAM ORGANIZATION}{23}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}TEAM STRUCTURE}{23}{subsection.5.4.1}
+\contentsline {chapter}{\numberline {6}SOFTWARE REQUIREMENT AND SPECIFICATION}{24}{chapter.6}
+\contentsline {section}{\numberline {6.1}INTRODUCTION}{25}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Purpose and Scope of Document}{25}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Overview and Responsibilities of Developer}{25}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Software Development Life Cycle (SDLC) Phases}{25}{subsection.6.1.3}
+\contentsline {section}{\numberline {6.2}USAGE SCENARIO}{26}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}User Profiles}{26}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Use-Cases}{26}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Use Case Views}{27}{subsection.6.2.3}
+\contentsline {section}{\numberline {6.3}DATA MODEL AND DESCRIPTION}{27}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Data Description}{27}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Data Objects and Relationships}{28}{subsection.6.3.2}
+\contentsline {section}{\numberline {6.4}FUNCTIONAL MODEL AND DESCRIPTION}{29}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Data Flow Diagram}{29}{subsection.6.4.1}
+\contentsline {subsubsection}{\numberline {6.4.1.1}Activity Diagram}{30}{subsubsection.6.4.1.1}
+\contentsline {subsection}{\numberline {6.4.2}Non Functional Requirements}{30}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.3}Sequence Diagram}{31}{subsection.6.4.3}
+\contentsline {chapter}{\numberline {7}DETAILED DESIGN DOCUMENT USING APPENDIX A AND B}{32}{chapter.7}
+\contentsline {section}{\numberline {7.1}INTRODUCTION}{33}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Purpose}{33}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}Scope}{33}{subsection.7.1.2}
+\contentsline {section}{\numberline {7.2}ARCHITECTURAL DESIGN}{33}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}System Architecture}{33}{subsection.7.2.1}
+\contentsline {section}{\numberline {7.3}COMPONENT DESIGN}{34}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}Class Diagrams}{34}{subsection.7.3.1}
+\contentsline {subsubsection}{\numberline {7.3.1.1}Package diagram}{34}{subsubsection.7.3.1.1}
+\contentsline {subsubsection}{\numberline {7.3.1.2}Deployment Diagram}{34}{subsubsection.7.3.1.2}
+\contentsline {chapter}{\numberline {8}PROJECT IMPLEMENTATION}{35}{chapter.8}
+\contentsline {section}{\numberline {8.1}INTRODUCTION}{36}{section.8.1}
+\contentsline {section}{\numberline {8.2}Goals and Objectives}{36}{section.8.2}
+\contentsline {section}{\numberline {8.3}TOOLS AND TECHNOLOGIES USED}{36}{section.8.3}
+\contentsline {chapter}{\numberline {9}SOFTWARE TESTING}{37}{chapter.9}
+\contentsline {section}{\numberline {9.1}Statement of Scope}{38}{section.9.1}
+\contentsline {section}{\numberline {9.2}TEST PLAN}{38}{section.9.2}
+\contentsline {subsection}{\numberline {9.2.1}Testing Strategy}{38}{subsection.9.2.1}
+\contentsline {subsection}{\numberline {9.2.2}Unit Testing}{38}{subsection.9.2.2}
+\contentsline {subsection}{\numberline {9.2.3}Integration Testing}{38}{subsection.9.2.3}
+\contentsline {subsection}{\numberline {9.2.4}Static and Dynamic Analysis}{39}{subsection.9.2.4}
+\contentsline {subsection}{\numberline {9.2.5}GUI Testing}{39}{subsection.9.2.5}
+\contentsline {subsection}{\numberline {9.2.6}White Box Testing}{39}{subsection.9.2.6}
+\contentsline {subsection}{\numberline {9.2.7}Black Box Testing}{39}{subsection.9.2.7}
+\contentsline {subsection}{\numberline {9.2.8}Test Schedule}{39}{subsection.9.2.8}
+\contentsline {subsection}{\numberline {9.2.9}Test Case}{39}{subsection.9.2.9}
+\contentsline {chapter}{\numberline {10}Results}{42}{chapter.10}
+\contentsline {section}{\numberline {10.1}User Interface}{43}{section.10.1}
+\contentsline {subsection}{\numberline {10.1.1}Web Application}{43}{subsection.10.1.1}
+\contentsline {subsection}{\numberline {10.1.2}Android Application}{45}{subsection.10.1.2}
+\contentsline {chapter}{\numberline {11}DEPLOYMENT AND MAINTENANCE}{46}{chapter.11}
+\contentsline {section}{\numberline {11.1}INSTALLATION AND UN-INSTALLATION}{47}{section.11.1}
+\contentsline {chapter}{\numberline {12}CONCLUSION AND FUTURE SCOPE}{48}{chapter.12}
+\contentsline {chapter}{Annexure \numberline {A}References}{50}{Annexure.1.A}
+\contentsline {chapter}{Annexure \numberline {B}LABORATORY ASSIGNMENTS ON PROJECT ANALYSIS OF ALGORITHM DESIGN}{51}{Annexure.1.B}
+\contentsline {chapter}{Annexure \numberline {C}LABORATORY ASSIGNMENTS ON PROJECT QUALITY AND RELIABILITY TESTING OF PROJECT DESIGN}{53}{Annexure.1.C}
+\contentsline {chapter}{Annexure \numberline {D}PROJECT PLANNER}{55}{Annexure.1.D}
+\contentsline {chapter}{Annexure \numberline {E}REVIEWERS COMMENTS OF PAPER SUBMITTED}{57}{Annexure.1.E}
+\contentsline {chapter}{Annexure \numberline {F}PLAGIARISM REPORT}{59}{Annexure.1.F}
+\contentsline {chapter}{Annexure \numberline {G}TERM-II PROJECT LABORATORY ASSIGNMENT}{61}{Annexure.1.G}
+\contentsline {chapter}{Annexure \numberline {H}INFORMATION OF PROJECT GROUP MEMBERS}{70}{Annexure.1.H}
+\contentsfinish 

@@ -1,0 +1,28 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[12pt]{report}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setlength{\textwidth}{6.25in} % original 6.25
+\setlength{\textheight}{650pt}
+\renewcommand{\baselinestretch}{1.3}
+
+\oddsidemargin 20pt    %  Left margin on odd-numbered pages.
+\evensidemargin 20pt   %  Note that \oddsidemargin = \evensidemargin
+\topmargin 0pt
+%%%%%%%%%%%%%%%%%%%%2%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage {graphics}
+\usepackage {epsfig}
+\usepackage {graphicx}
+\usepackage{fancyhdr}
+%\usepackage{fixltx2e}
+\usepackage[usenames,dvipsnames]{color}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\pagestyle{empty}
+\begin{document}
+
+\pagenumbering{gobble}
+\pagestyle{fancyplain}
+\fancyhf{}
+\rhead{\fancyplain{}{\thepage}}
+
+\input{assreport}
+\end{document}
