@@ -1,3 +1,5 @@
 # ClassE
 
-https://issuu.com/irjet/docs/irjet-v4i3400
+
+
+[Research Paper](https://issuu.com/irjet/docs/irjet-v4i3400)
